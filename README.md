@@ -9,7 +9,7 @@ A simple Batch Script that prevents your PC from falling asleep during prints. I
 # When printing: #
 1. Double click "PrintMode_Toggle.bat" 
 2. It will ask for Elevated Perms. Required for adjusting PowerCFG
-3. It will save a file to the same directory called "printmode_backup.ini" # DO NOT DELETE #
+3. It will save a file to the same directory called "printmode_backup.ini" DO NOT DELETE
 4. Done, you can close it.
 
 # dont forget to open it again when you are finished, or it wont restore your settings #
